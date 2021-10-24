@@ -54,7 +54,7 @@ Source link: https://www.kaggle.com/lava18/google-play-store-apps
 
 - Android Ver
 
-### Visualization in both Python and Tableau:
+### Visualization in both Python (as per Notebook) and Tableau (as below):
 
 Bar - Content Rating vs Rating
 
