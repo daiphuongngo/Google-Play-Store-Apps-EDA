@@ -18,8 +18,43 @@ Source link: https://www.kaggle.com/lava18/google-play-store-apps
 | App | Category | Rating | Reviews | Size | Installs | Type | Price | Content Rating | Genres | Last Updated | Current Ver | Android Ver |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
 
+### Exploratory Data Analytis:
 
-### Visualization:
+#### Data Engineering:
+
+- Import Libraries
+
+- Load Data
+
+- Check data shape
+
+- Check null sum
+
+- Check duplicates
+
+#### Process Data Columns:
+
+- Type
+
+- Review
+
+- Category
+
+- Genres
+
+- Size
+
+- Installs
+
+- Price
+
+- Content Rating
+
+- Last Update
+
+- Android Ver
+
+### Visualization in both Python and Tableau:
 
 Bar - Content Rating vs Rating
 
@@ -69,3 +104,11 @@ Scatter Plot - Rating vs Count Size
 
 ![Scatter Plot - Rating vs Count Size](https://user-images.githubusercontent.com/70437668/138580462-52f1d9db-9adb-4998-a7cf-7a27e5011d88.jpg)
 
+
+### Build Model:
+
+- Pre-processing
+
+- Featuring
+
+- Predicting
