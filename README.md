@@ -1,5 +1,12 @@
 # Google-Play-Store-Apps-EDA
 
+## Category:
+
+- App / Application
+
+- Technology
+
+- Software
 
 ## Overview:
 
