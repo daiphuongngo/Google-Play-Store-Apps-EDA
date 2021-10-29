@@ -89,7 +89,7 @@ Source link: https://www.kaggle.com/lava18/google-play-store-apps
 
 #### Distribution of Rating
 
-![Distribution of Rating](https://user-images.githubusercontent.com/70437668/138580440-bfbd0a42-f058-416a-af14-03329b8bca3b.jpg)
+![Distribution of Rating](https://user-images.githubusercontent.com/70437668/139380257-ab071144-db52-463c-b7ab-9f5365fd6e5f.jpg)
 
 #### Heatmap - Rating  
 
@@ -110,6 +110,18 @@ Source link: https://www.kaggle.com/lava18/google-play-store-apps
 #### Scatter Plot - Rating vs Count Size
 
 ![Scatter Plot - Rating vs Count Size](https://user-images.githubusercontent.com/70437668/138580462-52f1d9db-9adb-4998-a7cf-7a27e5011d88.jpg)
+
+#### Dashboard - Rating
+
+![Dashboard - Rating](https://user-images.githubusercontent.com/70437668/139380306-88c72286-7adb-4d17-b25e-30b544b0b23b.jpg)
+
+#### Dashboard - Category
+
+![Dashboard - Category](https://user-images.githubusercontent.com/70437668/139380303-e6e203ed-39df-4036-9128-9ce5b7f0d451.jpg)
+
+#### Dashboard - Rating Distribution
+
+![Dashboard - Rating Distribution](https://user-images.githubusercontent.com/70437668/139380299-ba3cfb20-f397-4e39-bf18-7a0b18c03040.jpg)
 
 
 ### Build Model:
