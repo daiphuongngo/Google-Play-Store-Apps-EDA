@@ -83,7 +83,13 @@ Source link: https://www.kaggle.com/lava18/google-play-store-apps
 
 ![Boxplot of Rating VS Category](https://user-images.githubusercontent.com/70437668/138580434-662d9c9e-71f6-452b-a675-61017f4cc3b7.jpg)
 
-#### Boxplot of Rating vs Genre with Types 
+![Boxplot of Rating vs Category](https://user-images.githubusercontent.com/70437668/144704628-31ffec6e-b6b2-4679-9e40-b789cad4bcc3.jpg)
+
+#### Boxplot of Rating vs Genres
+
+![Boxplot of Rating vs Genres](https://user-images.githubusercontent.com/70437668/144704621-87be33b4-a17a-41fb-ade5-694994216481.jpg)
+
+#### Boxplot of Rating vs Genres with Types 
 
 ![Boxplot of Rating vs Genre with Types ](https://user-images.githubusercontent.com/70437668/138580437-123cd379-833c-4290-b919-e2bdbd135eac.jpg)
 
@@ -91,9 +97,17 @@ Source link: https://www.kaggle.com/lava18/google-play-store-apps
 
 ![Distribution of Rating](https://user-images.githubusercontent.com/70437668/139380257-ab071144-db52-463c-b7ab-9f5365fd6e5f.jpg)
 
-#### Heatmap - Rating  
+![Distribution of Rating](https://user-images.githubusercontent.com/70437668/144704605-a988ff34-071e-4daf-996b-2559d6daf5b2.jpg)
+
+#### Treemap - Rating  
 
 ![Heatmap - Rating  ](https://user-images.githubusercontent.com/70437668/138580444-24d35f17-2ba0-47f8-bf3b-4256100a7574.jpg)
+
+![Treemap - Rating](https://user-images.githubusercontent.com/70437668/144704612-60a7eeb0-7b52-477f-b40a-d294d11bfa89.jpg)
+
+#### Area - Rating by Content Rating
+
+![Area - Rating by Content Rating](https://user-images.githubusercontent.com/70437668/144704601-38c2fdf2-10fb-4ef8-82bd-3cb56a4f02e2.jpg)
 
 #### Heatmap - Rating bin vs Content Rating
 
