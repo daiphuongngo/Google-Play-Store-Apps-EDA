@@ -18,6 +18,8 @@ Conducted different Explanatory Data Analysis methods to preprocess the dataset'
 
 - Tableau
 
+- Power BI
+
 ### Dataset:
 
 Source link: https://www.kaggle.com/lava18/google-play-store-apps
